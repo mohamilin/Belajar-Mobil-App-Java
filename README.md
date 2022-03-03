@@ -1,11 +1,9 @@
 # Belajar Membuat Mobile App with Java
 
 ## Overview
-```html
-<p>Jadi saya diminta oleh CEO <h1>penulis.id</h1> untuk belajar mobile app dengan java, karena akan produk yang dibangun dalam bentuk mobile app (codebas: java).  Sebelumnya belum pernah belajar java. Akhirnya saya ikut kelas <strong>dicoding</strong>. Nah project didalam repo ini sebagai latihan saya dalam belajar pengembangan mobile app (codebas : java) Ingat yaa... JAVA</p>
-<hr>
-<p>Mungkin untuk kedepannya perlu belajar kotlin atau flutter, Basicly saya seorang backend</p>
-```
+1. Jadi saya diminta oleh CEO <h1>penulis.id</h1> untuk belajar mobile app dengan java, karena akan produk yang dibangun dalam bentuk mobile app (codebas: java).  Sebelumnya belum pernah belajar java. Akhirnya saya ikut kelas <strong>dicoding</strong>. Nah project didalam repo ini sebagai latihan saya dalam belajar pengembangan mobile app (codebas : java) Ingat yaa... JAVA.
+2. Mungkin untuk kedepannya perlu belajar kotlin atau flutter, Basicly saya seorang backend
+
 
 ## Project 1 : BarVolume
 1. Bikin new Project pake Android Studio
